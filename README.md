@@ -1,7 +1,12 @@
 # HehuNet
-Ensemble of Evolving Tokens of Infinite and Immersive Value Systems
 
-## References
+## Origin
+- Hehu is the Ancient God of Infinite Wisdom and Wealth
+
+## Design
+- An Ensemble of Evolving Tokens of Infinite and Immersive Value Systems
+
+## Concept
 - LabsDAO
 - AlchemyDAO ( https://docs.alchemydao.com/ )
 - ArtBlocks ( https://artblocks.io/ )
@@ -14,7 +19,7 @@ Ensemble of Evolving Tokens of Infinite and Immersive Value Systems
 - Quadratic Voting Mechanism
 - Twitter Streams
 
-## Concept
+## Convergence
 - SiddhiNet
 - RheaNet
 - TerrainNet
